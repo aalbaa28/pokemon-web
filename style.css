@@ -1,0 +1,44 @@
+body {
+    font-family:"Poppins", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    text-align: center;
+    margin: 20px;
+}
+
+#pokemon-form {
+    margin-bottom: 20px;
+}
+
+#image-container img{
+    position: relative;
+    width: 425px;
+    height: 425px;
+    margin: 20px auto;
+}
+
+#start-button {
+    background-color: #ADD8E6; /* Azul clarito */
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+#start-button:hover {
+    background-color: #87CEEB; /* Azul un poco más oscuro al pasar el ratón */
+}
+
+#pokemon-select {
+    background-color: aliceblue;
+    font-size: 16px;
+    color: cadetblue;
+    font-weight: bold;
+    padding: 10px 20px;
+    border-radius: 5px;
+    align-content: center;
+    margin-right: 10px;
+
+}
