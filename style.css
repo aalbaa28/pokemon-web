@@ -12,8 +12,6 @@ body {
 
 #image-container img{
     position: relative;
-    width: 425px;
-    height: 425px;
     margin: 20px auto;
 }
 
